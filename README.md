@@ -8,5 +8,6 @@ QQ：1361545828
 
 
 http://www.thinkphp.cn/extend/1275.html<br/>
-<a href="https://shopxo.net/">另一个开源商城</a>
+<a href="https://shopxo.net/" target="_blank">另一个开源商城</a>
+<br/>
 <img src="http://www.thinkphp.cn/Uploads/editor/2018-12-03/5c047b8181388.jpg"  alt="上海鲜花港 - 郁金香" />
